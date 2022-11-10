@@ -4,7 +4,7 @@
     <string name="btn_text">Показати список</string>
     <string-array name="students_groups">
         <item>301</item>
-
+        <item>ІПЗ19–1</item>
         <item>302</item>
         <item>308</item>
         <item>309</item>
